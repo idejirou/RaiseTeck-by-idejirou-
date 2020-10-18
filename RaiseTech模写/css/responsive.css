@@ -1,0 +1,42 @@
+@media screen and (max-width: 670px){
+.main-v {
+    width: 100%;
+    -webkit-box-align: end;
+    align-items: flex-end;
+    background-position: center -30px;
+    height: 310px;
+    position: relative;
+    }
+.p-policyCard{
+        width: 100%;
+    }
+.p-policyWrap {
+    height: 1100px;
+    }
+.logo2{
+    display: none;
+    }
+.menu-pc{
+    display: none;
+}
+#pc{
+    display: none;
+}
+.TopHead_body2 p{
+    font-size: 13px;
+    padding: 9px 0 13px 0;
+}
+.c-cardIcon{
+    margin: auto;
+}
+}
+
+@media screen and (min-width: 670px){
+    .menu-smafo{
+        display: none;
+    }
+    #smafo{
+        display: none;
+    }
+
+}
